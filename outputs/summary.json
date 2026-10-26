@@ -1,0 +1,21 @@
+{
+  "student_id": "FA24-BED-057",
+  "variant": 1,
+  "province": "Punjab",
+  "urban_rural": "Urban",
+  "regional_rows_before_age_and_earnings_filter": 15801,
+  "final_sample_n": 3768,
+  "excluded_total_from_regional_rows": 12033,
+  "excluded_outside_age_15_64": 5893,
+  "excluded_nonpositive_or_missing_earnings_among_age_15_64": 6140,
+  "excluded_invalid_weights_after_other_criteria": 0,
+  "weighted_p10_pkr": 96000.0,
+  "weighted_median_pkr": 240000.0,
+  "weighted_p90_pkr": 660000.0,
+  "unweighted_median_pkr": 240000.0,
+  "weighted_p90_to_p10_ratio": 6.875,
+  "weighted_mean_25_29_pkr": 320775.8110345824,
+  "weighted_mean_45_49_pkr": 465073.38268448465,
+  "highest_mean_age_band": "55-59",
+  "highest_mean_pkr": 523751.391180255
+}
